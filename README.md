@@ -1,3 +1,3 @@
 # GlobalSettings
-Test
+Testing
 This repository will have configuration such as zshrc, bashrc, alias, intellij setting. 

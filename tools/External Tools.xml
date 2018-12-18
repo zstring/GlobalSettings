@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="CodeAmazon" description="opens up on code.amazon.com with line number and package" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/zsh" />
+      <option name="PARAMETERS" value="-c &quot;cbfilename=`echo https://code.amazon.com/packages/$ModuleName$/blobs/$(git -C $ModuleFileDir$ rev-parse --abbrev-ref HEAD)/--/$FilePathRelativeToProjectRoot$#L$SelectionStartLine$-L$SelectionEndLine$` &amp;&amp; open $cbfilename&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

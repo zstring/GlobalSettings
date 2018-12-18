@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="tabOpacity" value="37" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="userId" value="68c05725:16780302bca:-8000" />
+    <option name="version" value="3.1.0" />
+  </component>
+</application>

@@ -1,0 +1,38 @@
+<keymap version="1" name="Eclipse (Mac OS X) - Custom" parent="Eclipse (Mac OS X)">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="FindBugs.ShowQuickSearch" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="ShowUsages">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="Tool_External Tools_CodeAmazon">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+</keymap>

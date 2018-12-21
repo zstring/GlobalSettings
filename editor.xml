@@ -2,4 +2,7 @@
   <component name="DefaultFont">
     <option name="LINE_SPACING" value="0.8" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
 </application>

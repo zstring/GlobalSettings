@@ -15,6 +15,18 @@
       </value>
     </option>
   </AndroidXmlCodeStyleSettings>
+  <GroovyCodeStyleSettings>
+    <option name="IMPORT_LAYOUT_TABLE">
+      <value>
+        <package name="" withSubpackages="true" static="true" />
+        <emptyLine />
+        <package name="javax" withSubpackages="true" static="false" />
+        <package name="java" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="" withSubpackages="true" static="false" />
+      </value>
+    </option>
+  </GroovyCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </JSCodeStyleSettings>
@@ -28,6 +40,9 @@
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
         <package name="" withSubpackages="true" static="true" />
+        <emptyLine />
+        <package name="java" withSubpackages="true" static="false" />
+        <package name="javax" withSubpackages="true" static="false" />
         <emptyLine />
         <package name="" withSubpackages="true" static="false" />
       </value>

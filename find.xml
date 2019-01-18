@@ -15,5 +15,6 @@
     <mask>*Test.java</mask>
     <mask>*.java, !*Test*</mask>
     <mask>*Test*</mask>
+    <mask>*.java,!*Test*</mask>
   </component>
 </application>

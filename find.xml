@@ -6,7 +6,6 @@
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -16,5 +15,6 @@
     <mask>*.java, !*Test*</mask>
     <mask>*Test*</mask>
     <mask>*.java,!*Test*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

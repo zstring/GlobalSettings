@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java, !*Test*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,9 +17,9 @@
     <mask>*Test.java</mask>
     <mask>*Test*</mask>
     <mask>*.java,!*Test*</mask>
-    <mask>*.java, !*Test*</mask>
     <mask>*.xml</mask>
     <mask>!*Test*</mask>
     <mask>!*.java</mask>
+    <mask>*.java, !*Test*</mask>
   </component>
 </application>

@@ -14,9 +14,9 @@
     <mask>*Test.java</mask>
     <mask>*Test*</mask>
     <mask>*.java,!*Test*</mask>
-    <mask>*.xml</mask>
     <mask>!*Test*</mask>
     <mask>!*.java</mask>
     <mask>*.java, !*Test*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

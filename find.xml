@@ -11,7 +11,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java, !*Test*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,8 +28,8 @@
     <mask>*.java,!*.Test*</mask>
     <mask>*.java,!*Test*</mask>
     <mask>*Test*</mask>
-    <mask>*.java, !*Test*</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java, !*Test*</mask>
   </component>
 </application>
